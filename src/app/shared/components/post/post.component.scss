@@ -1,0 +1,24 @@
+.post-preview {
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin: 10px;
+
+    &__header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 10px;
+    }
+
+    &__title {
+    }
+
+    &__date {
+    }
+
+    &__author {
+    }
+
+    &__btn {
+    }
+}
